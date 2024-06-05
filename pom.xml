@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>02-Maven-WebApp</finalName>
+    <finalName>Maven-web</finalName>
   </build>
 </project>
